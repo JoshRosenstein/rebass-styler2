@@ -1,0 +1,33 @@
+{
+  "name": "rebass-styler",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "Demo/index.js",
+  "dependencies": {
+    "@reach/router": "1.1.1",
+    "@roseys/clean-props-by-tag": "0.0.1",
+    "@roseys/futils": "0.0.15",
+    "@roseys/styler": "0.0.34",
+    "@roseys/tag": "0.0.3",
+    "chroma-js": "1.3.7",
+    "emotion": "9.2.4",
+    "emotion-icons": "0.0.1",
+    "emotion-theming": "9.2.4",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-emotion": "9.2.4",
+    "react-powerplug": "1.0.0-rc.0",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "react-scroll": "1.7.9",
+    "recompose": "0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
